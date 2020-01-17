@@ -527,45 +527,47 @@ Phát biểu tại buổi lễ, Bộ trưởng Bộ GD&ĐT Phùng Xuân Nhạ ch
 
 <!-- begin footer -->
     <section>
-        <div class="container footer"> 
+        <div class="footer"> 
             <div class="row footer_main">
-                <div class="col-md-2 logo_ft">
-                    <a href="" title="Trang chủ"><img src="images/frontend/main/logo02.png" width="170px" alt="Logo"></a>
-                </div>
-                <div class="col-md-6 footer_news" style="width:640px;">
-                    <div class="title_footer">
-                        <p>Thông tin liên hệ</p>
+                <div class="container">
+                    <div class="col-md-2 logo_ft">
+                        <a href="" title="Trang chủ"><img src="images/frontend/main/logo02.png" width="170px" alt="Logo"></a>
+                    </div>
+                    <div class="col-md-6 footer_news">
+                        <div class="title_footer">
+                            <p>Thông tin liên hệ</p>
+                        </div>
+                        <div class="clear"></div>
+                        <div class="content_footer1">
+                            <p><span style="font-size:18px"><span style="color:rgb(255, 255, 0)"><span style="font-family:tahoma,geneva,sans-serif"><strong>TRƯỜNG THPT LÝ TỰ TRỌNG</strong></span></span></span></p>
+
+                            <p><span style="color:#FFFFFF"><strong>Địa chỉ:&nbsp;</strong>Nam Thanh, Nam Trực, Nam Định.</span></p>
+
+                            <p><span style="color:#FFFFFF"><strong>Điện thoại:</strong>&nbsp;+1 251-382-9206&nbsp;- Mobile: 098 372 52 35&nbsp;- +1 251-382-9206&nbsp;<br>
+                            <span style="font-size:18px"><strong>HOTLINE: 1900.23.23.23</strong></span><br>
+                            <strong>Email:</strong>&nbsp;&nbsp;thpt.lytutrong@namdinh.edu.vn<br>
+                            <strong>Cơ&nbsp;sở 1:</strong>&nbsp;</span><a href="http://cs1.truongnamviet.edu.vn" style="line-height: 20.8px;"><span style="color:#FFFFFF">...</span></a><span style="color:#FFFFFF">&nbsp;</span><span style="color:#FFFFFF">-&nbsp;<strong>Cơ sở 2:</strong></span><a href="http://cs2.truongnamviet.edu.vn"><span style="color:#FFFFFF">&nbsp;</span></a><a href="http://cs2.truongnamviet.edu.vn"><span style="color:#FFFFFF">...</span></a></p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 footer_news" style="float: right;margin-right: 0px;">
+                        <div class="title_footer">
+                            <p>&nbsp;&nbsp;&nbsp;&nbsp;Bản đồ&nbsp;&nbsp;&nbsp;&nbsp;</p>
+                        </div>
+                        <div class="content_footer">
+
+                            <div class="bando_ft">
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3741.340268616364!2d106.25427411535662!3d20.327557086382324!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135e203b03398b5%3A0xd6c0aeb7f9749ea!2sLy%20Tu%20Trong%20High%20School!5e0!3m2!1sen!2s!4v1577686979357!5m2!1sen!2s" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+                            </div>
+                            <style>
+                                .bando_ft iframe{
+                                    width: 100% !important;height: 165px !important;
+                                }
+                            </style>
+                        
                     </div>
                     <div class="clear"></div>
-                    <div class="content_footer1">
-                        <p><span style="font-size:18px"><span style="color:rgb(255, 255, 0)"><span style="font-family:tahoma,geneva,sans-serif"><strong>TRƯỜNG THPT LÝ TỰ TRỌNG</strong></span></span></span></p>
-
-                        <p><span style="color:#FFFFFF"><strong>Địa chỉ:&nbsp;</strong>Nam Thanh, Nam Trực, Nam Định.</span></p>
-
-                        <p><span style="color:#FFFFFF"><strong>Điện thoại:</strong>&nbsp;+1 251-382-9206&nbsp;- Mobile: 098 372 52 35&nbsp;- +1 251-382-9206&nbsp;<br>
-                        <span style="font-size:18px"><strong>HOTLINE: 1900.23.23.23</strong></span><br>
-                        <strong>Email:</strong>&nbsp;&nbsp;thpt.lytutrong@namdinh.edu.vn<br>
-                        <strong>Cơ&nbsp;sở 1:</strong>&nbsp;</span><a href="http://cs1.truongnamviet.edu.vn" style="line-height: 20.8px;"><span style="color:#FFFFFF">...</span></a><span style="color:#FFFFFF">&nbsp;</span><span style="color:#FFFFFF">-&nbsp;<strong>Cơ sở 2:</strong></span><a href="http://cs2.truongnamviet.edu.vn"><span style="color:#FFFFFF">&nbsp;</span></a><a href="http://cs2.truongnamviet.edu.vn"><span style="color:#FFFFFF">...</span></a></p>
-                    </div>
-                </div>
-                <div class="col-md-3 footer_news" style="width: 334px;float: right;margin-right: 0px;">
-                    <div class="title_footer">
-                        <p>&nbsp;&nbsp;&nbsp;&nbsp;Bản đồ&nbsp;&nbsp;&nbsp;&nbsp;</p>
-                    </div>
-                    <div class="content_footer">
-
-                        <div class="bando_ft">
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3741.340268616364!2d106.25427411535662!3d20.327557086382324!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135e203b03398b5%3A0xd6c0aeb7f9749ea!2sLy%20Tu%20Trong%20High%20School!5e0!3m2!1sen!2s!4v1577686979357!5m2!1sen!2s" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
-                        </div>
-                        <style>
-                            .bando_ft iframe{
-                                width: 100% !important;height: 165px !important;
-                            }
-                        </style>
-                       
-                </div>
-                <div class="clear"></div>
-            </div> 
+                </div> <!--container -->
+            </div> <!--footer_main -->
         </div>              
     </section>
 

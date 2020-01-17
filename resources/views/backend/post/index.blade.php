@@ -69,7 +69,13 @@
 				 			<?php $imageNotExists = asset("uploads/noimage/noimage.png")?>
 		         			<tr>		 
 						 		<td>{{$row->title}}</td>
-							 	<td>{{(strlen($row->content) > 100)?(substr($row->content,0,100)."..."):$row->content}}</td>
+							 	<td>
+								 <?php 
+									 $content = getplaintextintrofromhtml($row->content);
+									 echo _cutTect($content,100);
+								 ?>
+								
+								 </td>
 							 	<td>{{$row->author}}</td>
 							 	<td style="text-align:center">
 									<?php 

@@ -70,7 +70,8 @@
 
 		 			  <div class="form-group">
 					    <label for="content">Nội dung bài viết</label>
-						<textarea id="content" name="content" rows="7" class="form-control ckeditor" value="{{$upd_post->content}}" placeholder="Write your message..">
+						<textarea id="content" name="content" rows="7" class="form-control ckeditor" placeholder="Write your message..">
+						{{$upd_post->content}}
 						</textarea>
 					  </div>
 

@@ -547,6 +547,7 @@
     .footer {
         width: 100%;
         background: url(imgs/bg_ft1.png) top center no-repeat,url(imgs/bg_ft.png);
+        background-repeat: repeat-x;
         position: relative;
      
     }
@@ -562,6 +563,7 @@
         display: inline-block;
         margin-right: 10px;
         vertical-align: top;
+        margin-left: 20px;
     }
     .title_footer {
         margin-bottom: 15px;
